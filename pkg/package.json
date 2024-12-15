@@ -1,0 +1,15 @@
+{
+  "name": "the_hashed_doge",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "the_hashed_doge_bg.wasm",
+    "the_hashed_doge.js",
+    "the_hashed_doge.d.ts"
+  ],
+  "main": "the_hashed_doge.js",
+  "types": "the_hashed_doge.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
